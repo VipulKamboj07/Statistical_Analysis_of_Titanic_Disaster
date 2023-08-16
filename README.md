@@ -49,6 +49,11 @@ In the conclusion, we'll summarize our findings from the statistical analysis an
 
 Feel free to explore the code, notebooks, and visualizations in this repository to gain insights into the Titanic disaster and the factors that influenced passenger survival. If you have any questions or suggestions, please feel free to reach out!
 
+## Contributors (GitHub Profile)
+
+* [@Arpit Arya](https://github.com/arpit22n0295)
+* [@Satyam Tiwari](https://github.com/Official-Satyam-Tiwari)
+
 **Let's embark on this journey to uncover the secrets of the Titanic disaster and make predictions about survival! ⚓🔍🌟**
 
 *(Disclaimer: This project is for educational and exploratory purposes only. It does not intend to diminish the historical significance of the Titanic disaster or the lives lost.)*
